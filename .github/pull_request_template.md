@@ -1,6 +1,6 @@
 <!-- ❕📝 PR guidelines are available in the  CONTRIBUTING guide -->
 
-## Sumary
+## Summary
 
 _Summary of PR changes..._
 
